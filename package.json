@@ -1,0 +1,24 @@
+{
+  "name": "password-generator",
+  "version": "1.0.0",
+  "description": "Simple Password Generator",
+  "main": "index.js",
+  "preferGlobal": true,
+  "bin": "./index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "Password",
+    "Generator",
+    "Node",
+    "js"
+  ],
+  "author": "MD. Asifur Rahman",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "clipboardy": "^2.3.0",
+    "commander": "^8.1.0"
+  }
+}
