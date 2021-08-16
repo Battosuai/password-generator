@@ -1,4 +1,4 @@
-> #Simple Password Generator
+> # Simple Password Generator
 
 > ## To run, "npm start" or "node index.js"
 
